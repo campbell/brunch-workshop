@@ -4,3 +4,6 @@
 [submodule "todomvc"]
 	path = todomvc
 	url = git@github.com:campbell/todomvc.git
+[submodule "basic-js-app"]
+	path = basic-js-app
+	url = git@github.com:campbell/basic-js-app.git
