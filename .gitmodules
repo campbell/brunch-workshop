@@ -3,7 +3,7 @@
 	url = git@github.com:campbell/simple-js-skeleton.git
 [submodule "todomvc"]
 	path = todomvc
-	url = git@github.com:campbell/todomvc.git
+	url = git://github.com/addyosmani/todomvc.git
 [submodule "basic-js-app"]
 	path = basic-js-app
 	url = git@github.com:campbell/basic-js-app.git
